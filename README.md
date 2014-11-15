@@ -1,4 +1,5 @@
 TransWorld
 ==========
 
-A 3d world template for Max6
+A 3D template for Worldmaking in the TransLAB
+
